@@ -70,6 +70,7 @@ var jela = [...]Jelo{
 	{"indeks", M},
 	{"banana", Z},
 	{"lepinja", Z},
+	{"palačinka", Z}
 }
 
 func randomJelo() Jelo {
