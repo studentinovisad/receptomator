@@ -33,7 +33,7 @@ var pridevi = [...]Pridev{
 	{"sitan", "sitna", "sitno"},
 	{"kremast", "kremasta", "kremasto"},
 	{"prirodan", "prirodna", "prirodno"},
-	{"gork", "gorka", "gorko"},
+	{"gorak", "gorka", "gorko"},
 	{"plav", "plava", "plavo"},
 	{"crven", "crvena", "crveno"},
 	{"žut", "žuta", "žuto"},
