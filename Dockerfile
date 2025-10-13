@@ -1,4 +1,4 @@
-FROM docker.io/library/golang:1.25.1-trixie AS builder
+FROM docker.io/library/golang:1.25.2-trixie AS builder
 WORKDIR /app
 COPY go.mod ./
 RUN go mod download
